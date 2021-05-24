@@ -5,7 +5,7 @@ menu_list_array = [
 "Pepperoni Pizza",
 "Hawalian Pizza", 
 "Panner Tikka Pizza",
-"Chocolate Chip Veg Supreme Piuzza",
+"Veg Supreme Pizza",
 "Delxue Veg Pizza" 
                     ];
 
